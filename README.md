@@ -27,7 +27,13 @@ How to implement the repository in your system
    
    ./pcap_parser <file_name>.pcap
 
-6. For reverse DNS lookup run the vi file:
+6. Run .pcap file:
+
+   sudo tcpreplay -i <network_interface> --mbps=<speed> <path_to_pcap_file>
+
+   Disconnect from your wired ethernet connection in your VM, if possible, while replaying the packets using tcpreplay.
+
+8. For reverse DNS lookup run the vi file:
 
    vi <file_name>
 
