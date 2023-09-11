@@ -33,7 +33,7 @@ How to implement the repository in your system
 
    Disconnect from your wired ethernet connection in your VM, if possible, while replaying the packets using tcpreplay.
 
-8. For reverse DNS lookup run the vi file:
+8. For reverse DNS lookup run the vi file(dig shell script):
 
    vi <file_name>
 
