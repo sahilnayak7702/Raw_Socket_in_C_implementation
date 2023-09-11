@@ -44,4 +44,4 @@ How to implement the repository in your system
 
 * [Raw Socket](https://en.wikipedia.org/wiki/Raw_socket)
 * [libpcap](https://www.tcpdump.org/)
-* [Raw Socket Operations]([https://www.tcpdump.org/](https://docs.google.com/document/d/1z42olU6x9EOZqK7pLIESQqhDs2aKFl18PKx0jgIr390/edit#heading=h.h41uezhi9kbk)https://docs.google.com/document/d/1z42olU6x9EOZqK7pLIESQqhDs2aKFl18PKx0jgIr390/edit#heading=h.h41uezhi9kbk)
+* [Raw Socket Operations](https://docs.google.com/document/d/1z42olU6x9EOZqK7pLIESQqhDs2aKFl18PKx0jgIr390/edit#heading=h.h41uezhi9kbk)
